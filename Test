@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Page title</title>
+</head>
+<style>
+	div {
+	width: 30px;
+	height: 30px;
+	background-color: #caffaa;
+        border-top:15px solid green;
+	border-right:15px solid #65ff00;
+	border-bottom:15px solid green;
+        border-left:15px solid #65ff00;
+	border-radius: 50%;
+	color:white;
+	text-align: center;
+	font-size: 25px;
+	padding:5px;
+	}
+</style>
+<body>
+	<div>+</div>
+</body>
+</html>
